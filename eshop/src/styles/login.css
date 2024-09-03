@@ -1,0 +1,25 @@
+.auth__form{
+    background: #585757;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.login__btn{
+    background: #fff !important;;
+    color: var(--primary-color);
+    font-weight: 600px;
+}
+.buy__btn{
+  background: var(--primary-color);
+
+}
+.auth__form .auth__link:hover {
+    color: var(--primary-color); 
+}
+.auth__form p{
+    margin-top: 30px;
+}
+.auth__form input[type='file']{
+    color: #9c9898;
+    cursor: pointer;
+}
